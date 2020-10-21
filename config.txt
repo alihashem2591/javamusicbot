@@ -1,4 +1,4 @@
-token=https://discord.com/api/oauth2/authorize?client_id=768341955951853579&permissions=8&scope=bot
+token=NzY4MzQxOTU1OTUxODUzNTc5.X4_ENQ.53ggbcnIr7fZeOtb0e_tvnRPnbE
 owner=722963712796786707
 prefix=-
 stayinchannel=true
